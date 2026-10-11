@@ -1,0 +1,44 @@
++---------------------+----------------------+
+| name                | name                 |
++---------------------+----------------------+
+| Dr. Tanner Reynolds | Acevedo-Lee Hospital |
+| Dr. Alvin Nelson    | Acevedo-Lee Hospital |
+| Dr. Christian Lewis | Acevedo-Lee Hospital |
++---------------------+----------------------+
++-----------------+--------------+-------------+-------------------+
+| prescription_id | name         | medication  | prescription_date |
++-----------------+--------------+-------------+-------------------+
+|             472 | George Short | Ibuprofen   | 2023-04-08        |
+|             282 | George Short | Aspirin     | 2023-05-22        |
+|             205 | George Short | Aspirin     | 2023-06-04        |
+|              30 | George Short | Amoxicillin | 2023-10-24        |
++-----------------+--------------+-------------+-------------------+
++-----------------+---------------------+--------------+-------------------+
+| prescription_id | name                | medication   | prescription_date |
++-----------------+---------------------+--------------+-------------------+
+|               1 | Dr. Hannah Sullivan | Lisinopril   | 2023-10-23        |
+|              92 | Dr. Hannah Sullivan | Amoxicillin  | 2024-10-17        |
+|             176 | Dr. Hannah Sullivan | Omeprazole   | 2024-02-14        |
+|             207 | Dr. Hannah Sullivan | Atorvastatin | 2024-06-14        |
+|             285 | Dr. Hannah Sullivan | Aspirin      | 2023-04-24        |
+|             337 | Dr. Hannah Sullivan | Lisinopril   | 2023-07-17        |
+|             382 | Dr. Hannah Sullivan | Ibuprofen    | 2023-11-10        |
++-----------------+---------------------+--------------+-------------------+
++-----------+-------------+---------------+-------------------+---------+-----------+
+| person_id | name        | date_of_birth | address           | role    | doctor_id |
++-----------+-------------+---------------+-------------------+---------+-----------+
+|       701 | Alex Morgan | 1995-06-15    | 12 Example Street | Patient |        68 |
++-----------+-------------+---------------+-------------------+---------+-----------+
++--------------------+----------+
+| name               | COUNT(*) |
++--------------------+----------+
+| Dr. Taylor Sanchez |       13 |
++--------------------+----------+
++--------------------+-------------------------------------+------+
+| name               | name                                | size |
++--------------------+-------------------------------------+------+
+| Dr. Kathryn Ray    | Peters, Anderson and Baker Hospital |  494 |
+| Dr. Regina Ryan    | Peters, Anderson and Baker Hospital |  494 |
+| Dr. Carly Moyer    | Peters, Anderson and Baker Hospital |  494 |
+| Dr. Scott Reynolds | Peters, Anderson and Baker Hospital |  494 |
++--------------------+-------------------------------------+------+
