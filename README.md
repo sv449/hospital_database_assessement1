@@ -49,10 +49,10 @@ I also ran the saved SQL query file and recorded the outputs in query_results.tx
 ## Repository Files
 | File name |	Description |
 |---|---|
-| database planning/	| ERD and pseudocode in editable and PDF formats |
-| sql/hospital_database.sql| Exported MySQL database, including the tables and records |
-| sql/hospital_queries.sql |	The six SQL queries |
-| sql/query_results.txt |	Results from running the SQL queries |
+| [database planning/](https://github.com/sv449/hospital_database_assessement1/tree/main/database%20planning)	| ERD and pseudocode in editable and PDF formats |
+| [hospital_database.sql](https://github.com/sv449/hospital_database_assessement1/blob/main/sql/hospital_database.sql)| Exported MySQL database, including the tables and records |
+| [sql/hospital_queries.sql](https://github.com/sv449/hospital_database_assessement1/blob/main/sql/hospital_queries.sql) |	The six SQL queries |
+| [sql/query_results.txt](https://github.com/sv449/hospital_database_assessement1/blob/main/sql/query_results.txt) |	Results from running the SQL queries |
 
 ## How to Run the Database
 The database can be imported into MySQL using:
