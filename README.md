@@ -1,5 +1,7 @@
 # Hospital Database Assessment
 
+Student Number: 760084998
+
 ## Overview
 For this assessment, I built a hospital database in MySQL to store information about hospitals, doctors, patients and prescriptions.
 The database structure was designed with an Entity Relationship Diagram (ERD) and pseudocode. I then created the tables, imported the CSV files and wrote six SQL queries to retrieve and update data in the database.
