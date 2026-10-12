@@ -53,6 +53,7 @@ I also ran the saved SQL query file and recorded the outputs in query_results.tx
 |---|---|
 | [database planning/](https://github.com/sv449/hospital_database_assessement1/tree/main/database%20planning)	| ERD and pseudocode in editable and PDF formats |
 | [hospital_database.sql](https://github.com/sv449/hospital_database_assessement1/blob/main/sql/hospital_database.sql)| Exported MySQL database, including the tables and records |
+| [database_setup.sql](https://github.com/sv449/hospital_database_assessement1/blob/main/sql/database_setup.sql) | Reconstructed SQL script with how the database tables were created and how CVS files were imported.
 | [sql/hospital_queries.sql](https://github.com/sv449/hospital_database_assessement1/blob/main/sql/hospital_queries.sql) |	The six SQL queries |
 | [sql/query_results.txt](https://github.com/sv449/hospital_database_assessement1/blob/main/sql/query_results.txt) |	Results from running the SQL queries |
 
